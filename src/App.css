@@ -103,15 +103,20 @@ span.btn {
 }
 
 .footer {
-  height: 230px;
+  min-height: 230px;
   width: 100%;
   background: #3269F6;
+  /* max-width: 100vw; */
+  display: flex;
+  align-items: center;
 }
+
 
 .footer-contents {
   height: 100%;
   width: 100%;
   display: flex;
+  justify-content: center;
 }
 
 .footer-contents .left, .footer-contents .right {
@@ -132,10 +137,10 @@ span.btn {
   color: #eee;
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
+  /* align-items: center;  */
   justify-content: center;
   text-align: left;
-  padding-left: 10%;
+  width: 30%;
 }
 
 .left .f-row {
@@ -172,4 +177,43 @@ span.btn {
   align-items: center;
   justify-content: center;
   font-weight: bold;
+}
+
+
+
+
+@media(max-width: 600px) {
+  .footer-contents {
+    flex-direction: column;
+    /* width: 100%; */
+  }
+
+  .footer-contents .left {
+  width: 100%;
+  text-align: center;
+  }
+
+.footer-contents .right  {
+  color: #eee;
+  /* width: 80%; */
+  width: 100%;
+
+  padding: 1rem;
+  text-align: center;
+}
+
+.left .f-row {
+  width: 60%;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.f-row div {
+  /* text-align: left; */
+  /* display: flex; */
+  width: 70%;
+  height: 50%;
+}
+
+
 }

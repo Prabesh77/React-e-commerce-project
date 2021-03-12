@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
 	return (
 		<div className="footer">
-			<div className="container footer-contents">
+			<div className=" footer-contents">
 				<div className="left">
 					<div className="f-row">
 						<i class="fas fa-map-marker-alt"></i>
