@@ -9252,172 +9252,168 @@
         "Category": "Fan"
     },
     {
-        "Parts_Text": "* L/H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "** L/H HEADLAMP ASSEMBLY",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLAMP ASSEMBLY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "** L/H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "** R/H HEADLAMP",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLAMP",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "** R/H HEADLAMP ASSEMBLY",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLAMP ASSEMBLY",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "** R/H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLAMP ASSY",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "***LH HEADLIGHT",
-        "Category": "Headlamp"
+        "Parts_Text": "LH HEADLIGHT",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L /H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "L /H HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H FRT HEADLAMP",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H FRT HEADLAMP",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H Headlamp",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H Headlamp",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H HEADLAMP ASSY (list $1910.22)-inv req if more",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H HEADLAMP ASSY LOWER",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLAMP ASSY LOWER",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H HEADLIGHT",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLIGHT",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*L/H HEADLIGHT ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "L/H HEADLIGHT ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*LH H/LAMP",
-        "Category": "Headlamp"
+        "Parts_Text": "LH H/LAMP",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*LH HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "LH HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*LH HEADLIGHT",
-        "Category": "Headlamp"
+        "Parts_Text": "LH HEADLIGHT",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*P) LH HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "LH HEADLAMP ASSY",
+        "Category": "Left Headlamp"
     },
     {
-        "Parts_Text": "*R /H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLAMP ASSY",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "*R/H Headlamp",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H Headlamp",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "*R/H HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLAMP ASSY",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "*R/H HEADLAMP ASSY - try used please",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLAMP ASSY",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "*R/H HEADLIGHT",
-        "Category": "Headlamp"
+        "Parts_Text": "R/H HEADLIGHT",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "*RASDIATOR",
-        "Category": "Headlamp"
+        "Parts_Text": "RH HEADLAMP",
+        "Category": "Right Headlamp"
     },
     {
-        "Parts_Text": "*RH HEADLAMP",
-        "Category": "Headlamp"
-    },
-    {
-        "Parts_Text": "*RH HEADLAMP ASSY (cert a/m)",
-        "Category": "Headlamp"
+        "Parts_Text": "RH HEADLAMP ASSY (cert a/m)",
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "*RHF H/LIGHT HID",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "*RIGHT HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "???/S HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "+++R/H HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "02 CHARGE-AIR COOLER",
-        "Category": "Headlamp"
+        "Category": "Intercooler"
     },
     {
         "Parts_Text": "1. N/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "1. O/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "1.O/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "10. N/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "10. O/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "10. O/S HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "11. N/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "11. O/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "11. O/S HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "12. N/S HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "13. O/S HEADLAMP",
@@ -9425,27 +9421,27 @@
     },
     {
         "Parts_Text": "14. N/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "15. N/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "15. O/S HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "15.O/S HEADLAMP ASSY",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "16.N/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Left Headlamp"
     },
     {
         "Parts_Text": "16.O/S HEADLAMP",
-        "Category": "Headlamp"
+        "Category": "Right Headlamp"
     },
     {
         "Parts_Text": "17. O/S HEADLAMP",
@@ -24088,7 +24084,7 @@
         "Category": "Headlamp"
     },
     {
-        "Parts_Text": "N/S H/LAMP ASSY       **TRY IG OR SP**",
+        "Parts_Text": "N/S H/LAMP ASSY",
         "Category": "Headlamp"
     },
     {
